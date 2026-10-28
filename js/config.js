@@ -1,7 +1,7 @@
 // TODO: replace with your deployed contract address
-const CHAIN={id:968,hex:"0x3c8",name:"BOT Chain Testnet",symbol:"BOT",rpc:"https://rpc.bohr.life",explorer:"https://scan.bohr.life",website:"https://botchain.ai"};
+const CHAIN={id:677,hex:"0x2a5",name:"BOT Chain ",symbol:"BOT",rpc:"https://rpc.botchain.ai",explorer:"https://scan.botchain.ai",website:"https://botchain.ai"};
 const CONFIG={
- "address":"0x4184683BE1071F76a5d4DFa38AEa3D3C2299Cb55",
+ "address":"0x2C29415F678D7679769E2D20016a8Ff1EF04F53B",
  "name": "StayChain",
  "fns": [
   "function addRoom(string name,uint256 nightlyWei) returns (uint256)",
